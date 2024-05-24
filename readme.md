@@ -5,4 +5,5 @@ Hello! Welcome to my GitHub profile. I’m QuickMuffin8782, and this special rep
 |Project Name| Progress/Status | Link | 
 |--|--|--|
 | COSC 2.0 | Working | Not published yet |
-| FOcelot | Working | Not published yet
+| FOcelot | Working | Not published yet |
+| Secret | Working | Secret... you'll just have to wait... |
