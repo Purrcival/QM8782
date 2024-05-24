@@ -1,3 +1,6 @@
+> [!IMPORTANT]\
+> If you wish to contact me, do so by joining my discord for verification before I can chat by [clicking here](https://tinyurl.com/QM8782-DISCORD).
+
 ![My furry avatar waving hi!](https://github.com/QM8782/QM8782/blob/main/hi.png?raw=true)
 ![Welcome to my profile!](https://readme-typing-svg.herokuapp.com?font=Micro+5&size=100&duration=2000&pause=1000&color=F7F7F7&vCenter=true&repeat=false&random=false&width=720&height=84&lines=Welcome+to+my+profile!)
 
