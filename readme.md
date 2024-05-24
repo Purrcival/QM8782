@@ -6,4 +6,5 @@ Hello! Welcome to my GitHub profile. I’m QuickMuffin8782, and this special rep
 |--|--|--|
 | COSC 2.0 | Working | Not published yet |
 | FOcelot | Working | Not published yet |
-| Secret | Working | Secret... you'll just have to wait... |
+| KinitoPET | Working | https://github.com/QM8782/KinitoPET |
+| Secret... | Working | Secret... you'll just have to wait... |
