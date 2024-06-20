@@ -13,6 +13,7 @@ Hello! Welcome to my GitHub profile. I’m QuickMuffin8782, and this special rep
 | COSC 2.0 | Working | Not published yet |
 | FOcelot | Working | Not published yet |
 | KinitoPET | Working | https://github.com/QM8782/KinitoPET |
+| LUM/MARINER | Working and Collaboorating | https://github.com/AfellowSpeedrunner/LUM-MARINER |
 | Secret... | Working | Secret... you'll just have to wait... |
 
 ![Github Stats](https://readme-typing-svg.herokuapp.com?font=Micro+5&size=100&duration=2000&pause=1000&color=F7F7F7&vCenter=true&repeat=false&random=false&width=720&height=84&lines=Github+Stats)
