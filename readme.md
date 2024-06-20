@@ -15,7 +15,7 @@ Hello! Welcome to my GitHub profile. I’m QuickMuffin8782, and this special rep
 | --- | --- | 
 | Github | https://github.com/QM8782 |
 | Gitlab | https://gitlab.com/QuickMuffin8782-CC |
-| Mastodon | https://mastodon.com/@quickmuffin8782 |
+| Mastodon | https://mastodon.social/@quickmuffin8782 |
 | X (formerly Twitter) | https://x.com/quickmuffin8782 |
 | Twitch | https://twitch.tv/qm8782games |
 | YouTube Channel | https://youtube.com/@qm8782yt |
