@@ -20,7 +20,7 @@ Hello! Welcome to my GitHub profile. I’m QuickMuffin8782, and this special rep
 | Twitch | https://twitch.tv/qm8782games |
 | YouTube Channel | https://youtube.com/@qm8782yt |
 
-![Donations appreciated](https://readme-typing-svg.herokuapp.com?font=Micro+5&size=100&duration=2000&pause=1000&color=F7F7F7&vCenter=true&repeat=false&random=false&width=720&height=84&lines=Donation+Appreciated)
+![Donations appreciated](https://readme-typing-svg.herokuapp.com?font=Micro+5&size=100&duration=2000&pause=1000&color=F7F7F7&vCenter=true&repeat=false&random=false&width=720&height=84&lines=Donations+Appreciated)
 
 I'm working my way up to pay for classes at Cameron University. Any donation via CashApp is very much appreciated. This fundraiser is to help my success into working my decade-long (10y) to my Doctorates degree. Feel free to donate to me on CashApp at $qm8782 for big support.
 
