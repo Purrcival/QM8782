@@ -1,3 +1,6 @@
+> [!NOTE]\
+> I'm working my way up to pay for classes at Cameron University. Any donation via CashApp is very much appreciated. This fundraiser is to help my success into working my decade-long (10y) to my Doctorates degree. Feel free to donate to me on CashApp at $qm8782 for big support.
+
 > [!IMPORTANT]\
 > If you wish to contact me, do so by joining my discord for verification before I can chat by [clicking here](https://tinyurl.com/QM8782-DISCORD).
 
@@ -5,6 +8,21 @@
 ![Welcome to my profile!](https://readme-typing-svg.herokuapp.com?font=Micro+5&size=100&duration=2000&pause=1000&color=F7F7F7&vCenter=true&repeat=false&random=false&width=720&height=84&lines=Welcome+to+my+profile!)
 
 Hello! Welcome to my GitHub profile. I’m QuickMuffin8782, and this special repository serves as a window into my work and interests. While I’m passionate about coding and collaboration, you can also find me actively engaging with the community on various platforms. I’m always open to discussions and projects that push the boundaries of innovation. If you’re interested in connecting and collaborating, feel free to reach out on [Discord](https://tinyurl.com/QM8782-DISCORD)!
+
+![Socials](https://readme-typing-svg.herokuapp.com?font=Micro+5&size=100&duration=2000&pause=1000&color=F7F7F7&vCenter=true&repeat=false&random=false&width=720&height=84&lines=Socials)
+
+| Platform | Link | 
+| --- | --- | 
+| Github | https://github.com/QM8782 |
+| Gitlab | https://gitlab.com/QuickMuffin8782-CC |
+| Mastodon | https://mastodon.com/@quickmuffin8782 |
+| X (formerly Twitter) | https://x.com/quickmuffin8782 |
+| Twitch | https://twitch.tv/qm8782games |
+| YouTube Channel | https://youtube.com/@qm8782yt |
+
+![Donations appreciated](https://readme-typing-svg.herokuapp.com?font=Micro+5&size=100&duration=2000&pause=1000&color=F7F7F7&vCenter=true&repeat=false&random=false&width=720&height=84&lines=Donation+Appreciated)
+
+I'm working my way up to pay for classes at Cameron University. Any donation via CashApp is very much appreciated. This fundraiser is to help my success into working my decade-long (10y) to my Doctorates degree. Feel free to donate to me on CashApp at $qm8782 for big support.
 
 ![Current works](https://readme-typing-svg.herokuapp.com?font=Micro+5&size=100&duration=2000&pause=1000&color=F7F7F7&vCenter=true&repeat=false&random=false&width=720&height=84&lines=Current+works)
 
