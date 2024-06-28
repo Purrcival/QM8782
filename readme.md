@@ -34,6 +34,13 @@ I'm working my way up to pay for classes at Cameron University. Any donation via
 | LUM/MARINER | Working and Collaborating | https://github.com/AfellowSpeedrunner/LUM-MARINER |
 | Secret... | Working | Secret... you'll just have to wait... |
 
+
+
 ![Github Stats](https://readme-typing-svg.herokuapp.com?font=Micro+5&size=100&duration=2000&pause=1000&color=F7F7F7&vCenter=true&repeat=false&random=false&width=720&height=84&lines=Github+Stats)
 
 ![My stats, of course!](https://github-readme-stats.vercel.app/api?username=QM8782&show_icons=true&theme=dark#gh-dark-mode-only)
+
+![Profile visits](https://readme-typing-svg.herokuapp.com?font=Micro+5&size=100&duration=2000&pause=1000&color=F7F7F7&vCenter=true&repeat=false&random=false&width=720&height=84&lines=Profile+visits)
+
+![QM8782-GITHUBVISITS](https://count.getloli.com/get/@QM8782-GITHUBVISITS)
+
