@@ -32,6 +32,7 @@ I'm working my way up to pay for classes at Cameron University. Any donation via
 | FOcelot | Working | Not published yet |
 | KinitoPET | Working | https://github.com/QM8782/KinitoPET |
 | LUM/MARINER | Working and Collaborating | https://github.com/AfellowSpeedrunner/LUM-MARINER |
+| Net Star OS | In development | Check the extensions channel on my Discord server |
 | Secret... | Working | Secret... you'll just have to wait... |
 
 
