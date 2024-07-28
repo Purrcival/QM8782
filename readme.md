@@ -43,4 +43,5 @@ I'm working my way up to pay for classes at Cameron University. Any donation via
 ![Profile visits](https://readme-typing-svg.herokuapp.com?font=Micro+5&size=100&duration=2000&pause=1000&color=F7F7F7&vCenter=true&repeat=false&random=false&width=720&height=84&lines=Profile+visits)
 
 ![QM8782-DISCORD](https://komarev.com/ghpvc/?username=QM8782)
+
 Update, the recent provider I used for could cause legal issues, so I changed it. Hope you understand!
