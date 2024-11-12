@@ -11,26 +11,18 @@ Hello! Welcome to my GitHub profile. I’m QuickMuffin8782, and this special rep
 
 ![Socials](https://readme-typing-svg.herokuapp.com?font=Micro+5&size=100&duration=2000&pause=1000&color=F7F7F7&vCenter=true&repeat=false&random=false&width=720&height=84&lines=Socials)
 
-| Platform | Link | 
-| --- | --- | 
-| Github | https://github.com/QM8782 |
-| Gitlab | https://gitlab.com/QuickMuffin8782-CC |
-| Mastodon | https://mastodon.social/@quickmuffin8782 |
-| X (formerly Twitter) | https://x.com/quickmuffin8782 |
-| Twitch | https://twitch.tv/qm8782games |
-| YouTube Channel | https://youtube.com/@qm8782yt |
-| Personal Blog | https://tinyurl.com/QM8782-BLOG |
-| Discord Server | https://tinyurl.com/QM8782-DISCORD |
+> [!NOTE]\
+> My social table is removed permanently. [Consider going to my linktree right here.](https://linktr.ee/quickmuffin8782/)
 
 ![Current works](https://readme-typing-svg.herokuapp.com?font=Micro+5&size=100&duration=2000&pause=1000&color=F7F7F7&vCenter=true&repeat=false&random=false&width=720&height=84&lines=Current+works)
 
 |Project Name| Progress/Status | Link | 
 |--|--|--|
-| COSC 2.0 | Working | Not published yet |
+| <Change:Tue Nov 12, 2024> OSBASE for OS makers in ComputerCraft - Will be part of COSC 2.0 | Working | Not published yet |
 | FOcelot | Working | Not published yet |
-| KinitoPET | Working | https://github.com/QM8782/KinitoPET |
+| KinitoPET | On hold due to streaming | https://github.com/QM8782/KinitoPET |
 | LUM/MARINER | Working and Collaborating | https://github.com/AfellowSpeedrunner/LUM-MARINER |
-| Net Star OS | In development | Check the extensions channel on my Discord server |
+| Net Star OS | In development (On hold, Arch Transformation Underway) | Check the extensions channel on my Discord server |
 | Secret... | Working | Secret... you'll just have to wait... |
 
 
@@ -42,5 +34,3 @@ Hello! Welcome to my GitHub profile. I’m QuickMuffin8782, and this special rep
 ![Profile visits](https://readme-typing-svg.herokuapp.com?font=Micro+5&size=100&duration=2000&pause=1000&color=F7F7F7&vCenter=true&repeat=false&random=false&width=720&height=84&lines=Profile+visits)
 
 ![QM8782-DISCORD](https://komarev.com/ghpvc/?username=QM8782)
-
-Update, the recent provider I used for could cause legal issues, so I changed it. Hope you understand!
