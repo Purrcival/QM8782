@@ -1,5 +1,5 @@
 > [!NOTE]\
-> I'm working my way up to pay for classes at Cameron University. Any donation via CashApp is very much appreciated. This fundraiser is to help my success into working my decade-long (10y) to my Doctorates degree. Feel free to donate to me on CashApp at $qm8782 for big support.
+> I decided to quit CashApp. However I do recommend you joining REALITY Anime VTBuer streaming platform on mobile devices. I stream daily around near night in the eastern time. Hope to see you on stream or even stream events! <3
 
 > [!IMPORTANT]\
 > If you wish to contact me, do so by joining my discord for verification before I can chat by [clicking here](https://tinyurl.com/QM8782-DISCORD).
