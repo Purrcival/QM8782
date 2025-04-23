@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="40" src="https://readme-typing-svg.herokuapp.com?font=Micro+5&size=100&duration=2000&pause=1000&color=F7F7F7F7&center=true&vCenter=true&repeat=false&width=800&height=84&lines=Welcome"  />
+  <img height="100" src="https://readme-typing-svg.herokuapp.com?font=Micro+5&size=100&duration=2000&pause=1000&color=F7F7F7F7&center=true&vCenter=true&repeat=false&width=800&height=84&lines=Welcome!"  />
 </div>
 
 ###
